@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSMODEL/03-15.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a62190194950ef86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CSNETWK/Introduction to Computer Networks (05-06).md",
+                "file": "CSNETWK/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSNETWK/Introduction to Computer Networks (05-06).md",
+                "file": "CSNETWK/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSNETWK/Introduction to Computer Networks (05-06).md",
+                "file": "CSNETWK/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSNETWK/Introduction to Computer Networks (05-06).md"
+                "file": "CSNETWK/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md"
               }
             }
           },
@@ -167,15 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a62190194950ef86",
+  "active": "141e21109e70370b",
   "lastOpenFiles": [
+    "CSNETWK/Introduction to Computer Networks (05-06)",
+    "CSNETWK/Introduction to Computer Networks (05-06)/Pasted image 20240506082319.png",
+    "CSNETWK/Introduction to Computer Networks (05-06)/Pasted image 20240506082633.png",
+    "CSNETWK/Introduction to Computer Networks (05-06)/Pasted image 20240506082647.png",
     "CSMODEL/03-15.md",
-    "CSNETWK/Introduction to Computer Networks (05-06).md",
-    "Pasted image 20240506082647.png",
-    "Pasted image 20240506082633.png",
-    "Pasted image 20240506082319.png",
-    "The Mother of All Demos.md",
+    "CSNETWK/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
     "CSNETWK",
+    "STHCIUX/The Mother of All Demos.md",
     "CSMODEL",
     "CSINTSY",
     "STHCIUX",
