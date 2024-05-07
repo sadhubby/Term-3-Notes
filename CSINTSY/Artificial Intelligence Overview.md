@@ -27,7 +27,7 @@ Example:
 	- Weights: amount of traffic on that road
 - Learning: Improve the weights assigned to each edge based on historical data observed in the real world
 
-Four Types of AI:
+3 Types of AI:
 1. Symbolic AI: top-down approach
 	 Identify the "rules" of the problem and model it
 	 Find a solution based on rules
@@ -38,3 +38,11 @@ Four Types of AI:
 	 provides mathematical rigor to AI approaches
 
 Types of AI Models:
+1. Reflex-Based Models: 
+	- single-pass processing of input features to map it to an output
+2. State-Based Models:
+	- represent the problem as a set of states to search through.
+3. Variable-Based Models:
+	- represent the problem as a set of constraints to satisfy.
+4. Logic-Based Models:
+	- automatic deduction and reasoning based on known facts
