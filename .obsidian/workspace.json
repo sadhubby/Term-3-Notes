@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSMODEL/Introduction to Data.md",
+                "file": "CSINTSY/Artificial Intelligence Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSMODEL/Introduction to Data.md",
+                "file": "CSINTSY/Artificial Intelligence Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSMODEL/Introduction to Data.md",
+                "file": "CSINTSY/Artificial Intelligence Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSMODEL/Introduction to Data.md"
+                "file": "CSINTSY/Artificial Intelligence Overview.md"
               }
             }
           },
@@ -154,16 +154,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141e21109e70370b",
+  "active": "f535f2c50d827d1c",
   "lastOpenFiles": [
-    "Pasted image 20240507173838.png",
+    "CSNETWK/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
     "CSMODEL/Introduction to Data.md",
+    "Pasted image 20240507173838.png",
     "CSMODEL/Continuation of Introduction to Data.md",
     "STHCIUX/History of HCI.md",
-    "CSINTSY/05-06 Artificial Intelligence Overview.md",
+    "CSINTSY/Artificial Intelligence Overview.md",
     "Untitled.canvas",
     "2024-05-06.md",
-    "CSNETWK/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
     "CSNETWK/Introduction to Computer Networks (05-06)/Pasted image 20240506082633.png",
     "CSNETWK/Introduction to Computer Networks (05-06)/Pasted image 20240506082647.png",
     "CSNETWK/Introduction to Computer Networks (05-06)/Pasted image 20240506082319.png",
