@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## School To-Do
 
-- [ ] CSINTSY - Continuation of AI Overview
+- [ ] [[CSMODEL - Fix Data Cleaning]]
 
 
 ## School In-Progress
@@ -26,6 +26,9 @@ kanban-plugin: basic
 ## School Completed
 
 **Complete**
+- [x] CSINTSY - Continuation of AI Overview
+- [x] [[CSNETWK - Fix TCPIP Suite]]
+- [x] [[STHCIUX - Fix this certain note and check if necessary]]
 
 
 
