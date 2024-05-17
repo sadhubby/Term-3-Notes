@@ -11,12 +11,8 @@
             "id": "6762330df9799128",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tgest note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tgest note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tgest note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "tgest note.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6762330df9799128",
+  "active": "f7bc94a06f7ad101",
   "lastOpenFiles": [
     "tgest note.md",
     "State Based Model (Searching).md",
