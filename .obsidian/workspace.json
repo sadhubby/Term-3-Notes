@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cc8dd6864afe1a20",
+        "id": "f7f0f0e4b75e4a5a",
         "type": "tabs",
         "children": [
           {
-            "id": "b0530543e7c35c2e",
+            "id": "0e1d8c4fd908e93b",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Miscellaenous/Personal Kanban.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -36,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miscellaenous/Personal Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miscellaenous/Personal Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,20 +118,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Miscellaenous/Personal Kanban.md"
-              }
+              "state": {}
             }
           },
           {
-            "id": "70b14103e37e7bdf",
+            "id": "f7bc94a06f7ad101",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -151,54 +146,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141e21109e70370b",
+  "active": "f7bc94a06f7ad101",
   "lastOpenFiles": [
-    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Representation 1.md",
-    "CSMODEL/Module 1/Data Representation.md",
-    "Miscellaenous/Personal Kanban.md",
-    "CSMODEL/Module 1/Continuation of Introduction to Data.md",
-    "Untitled.md",
     "State Based Model (Searching).md",
-    "Miscellaenous/Personal Kanban Cards",
-    "STHCIUX/Needfinding/Something to ponder for Needfinding.md",
-    "Miscellaenous/Personal Kanban Cards/STHCIUX - Fix this certain note and check if necessary.md",
-    "CSMODEL/Module 2/Data Cleaning.md",
-    "CSMODEL/Module 2",
-    "CSMODEL/Module 2/2a - Data Preprocessing.pdf",
-    "2 - Pandas Data Structures (1) 1.ipynb",
-    "2 - Pandas Data Structures (1).ipynb",
-    "STHCIUX/Research Contributions in HCI/Research Contributions in HCI.md",
-    "STHCIUX/Research Contributions in HCI",
     "STHCIUX/Research Contributions in HCI/ResearchContributionTypes.pdf",
-    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Cleaning.md",
-    "Miscellaenous/Personal Kanban Cards/CSNETWK - Fix TCPIP Suite.md",
-    "Pasted image 20240513153505.png",
-    "Pasted image 20240513153247.png",
-    "Pasted image 20240513152731.png",
-    "Pasted image 20240513145435.png",
+    "STHCIUX/Research Contributions in HCI/Research Contributions in HCI.md",
+    "STHCIUX/Needfinding/Something to ponder for Needfinding.md",
     "STHCIUX/Needfinding/Pasted image 20240514120512.png",
-    "CSMODEL/Module 2/Pasted image 20240514165112.png",
-    "CSMODEL/Module 2/Pasted image 20240514170930.png",
-    "CSMODEL/Module 2/Pasted image 20240514174528.png",
-    "CSMODEL/Module 2/Pasted image 20240514172030.png",
+    "STHCIUX/Needfinding/Pasted image 20240514120201.png",
     "STHCIUX/Needfinding/Pasted image 20240514120117.png",
+    "STHCIUX/Needfinding/Pasted image 20240514114354.png",
+    "STHCIUX/Needfinding/Pasted image 20240514114335.png",
+    "STHCIUX/Needfinding/Pasted image 20240514113045.png",
+    "STHCIUX/Needfinding/Pasted image 20240514112524.png",
+    "STHCIUX/Needfinding/Pasted image 20240514112348.png",
+    "STHCIUX/Design Process/Pasted image 20240510113946.png",
+    "STHCIUX/Design Process/Pasted image 20240510113459.png",
+    "STHCIUX/Design Process/Design Process.md",
+    "STHCIUX/Research Contributions in HCI",
+    "STHCIUX/The Mother of All Demos.md",
     "STHCIUX/Needfinding",
-    "CSNETWK/Module 2/Summary of Layered Network Design.md",
-    "CSNETWK/Module 2/Layered Network Design.md",
+    "STHCIUX/History of HCI.md",
+    "STHCIUX/Design Process",
+    "STHCIUX",
+    "Miscellaenous/Personal Kanban Cards/STHCIUX - Fix this certain note and check if necessary.md",
+    "Miscellaenous/Personal Kanban Cards/CSNETWK - Fix TCPIP Suite.md",
+    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Representation 1.md",
+    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Cleaning.md",
+    "Miscellaenous/Personal Kanban.md",
+    "Miscellaenous/Personal Kanban Cards",
+    "Miscellaenous",
+    "CSNETWK/Module 1/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
     "CSNETWK/Module 2/TCPIP SUITE.md",
     "CSNETWK/Module 2/TCP vs UDP.md",
-    "CSINTSY/Artificial Intelligence Overview.md",
-    "Fix CSMODEL - Data Representation.md",
-    "Miscellaenous/Minutes of the meeting.md",
-    "Fix CSMODEL - Data Representation 1.md",
-    "CSMODEL/Module 1",
-    "General To-Do's.md",
-    "STHCIUX/Design Process/Design Process.md",
-    "STHCIUX/Design Process",
+    "CSNETWK/Module 2/Summary of Layered Network Design.md",
+    "CSNETWK/Module 2/Layered Network Design.md",
     "CSNETWK/Module 1/Summary of Module 1 - Introduction to Computer Networks.md",
+    "CSNETWK/Module 1/Introduction to Computer Networks (05-06)",
+    "CSNETWK/Module 2",
+    "CSNETWK/Module 1",
+    "CSMODEL/Module 2/Data Cleaning.md",
     "CSMODEL/Module 1/Introduction to Data.md",
-    "STHCIUX/History of HCI.md",
-    "Untitled.canvas",
-    "CSNETWK/Untitled.canvas"
+    "CSMODEL/Module 1/Data Representation.md",
+    "CSMODEL/Module 1/Continuation of Introduction to Data.md",
+    "CSINTSY/Artificial Intelligence Overview.md",
+    "The Mother of All Demos.md",
+    "Network Applications.md",
+    "CSMODEL/03-15.md"
   ]
 }
