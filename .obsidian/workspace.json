@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f7f0f0e4b75e4a5a",
+        "id": "470e1c422ca6dadf",
         "type": "tabs",
         "children": [
           {
-            "id": "0e1d8c4fd908e93b",
+            "id": "6762330df9799128",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "tgest note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "tgest note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "tgest note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "tgest note.md"
+              }
             }
           },
           {
@@ -146,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7bc94a06f7ad101",
+  "active": "6762330df9799128",
   "lastOpenFiles": [
+    "tgest note.md",
     "State Based Model (Searching).md",
     "STHCIUX/Research Contributions in HCI/ResearchContributionTypes.pdf",
     "STHCIUX/Research Contributions in HCI/Research Contributions in HCI.md",
