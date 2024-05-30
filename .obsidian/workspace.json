@@ -4,22 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "470e1c422ca6dadf",
+        "id": "df294bd82fab4c80",
         "type": "tabs",
         "children": [
           {
-            "id": "6762330df9799128",
+            "id": "d230eeb63b38151a",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Miscellaenous/Personal Kanban.md"
+              }
+            }
+          },
+          {
+            "id": "1dbdb6afdbf41a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSMODEL/Module 2/Data Cleaning.md",
+                "file": "Foundations for Inferece.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c403165b7945afe7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What will show up in the Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3b5cd2cbe41e61cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSNETWK/Module 2/Summary of Layered Network Design.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4fa23185221ed32d",
@@ -86,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSMODEL/Module 2/Data Cleaning.md",
+                "file": "What will show up in the Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSMODEL/Module 2/Data Cleaning.md",
+                "file": "What will show up in the Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSMODEL/Module 2/Data Cleaning.md"
+                "file": "What will show up in the Exam.md"
               }
             }
           },
@@ -155,8 +189,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6762330df9799128",
+  "active": "c403165b7945afe7",
   "lastOpenFiles": [
+    "CSNETWK/Module 2/Summary of Layered Network Design.md",
+    "What will show up in the Exam.md",
+    "CSNETWK/Module 2/Layered Network Design.md",
+    "CSNETWK/Module 2/TCPIP SUITE.md",
+    "CSNETWK/Module 2/TCP vs UDP.md",
+    "Miscellaenous/Personal Kanban.md",
+    "Foundations for Inferece.md",
+    "Pasted image 20240524150904.png",
+    "Pasted image 20240524145223.png",
+    "Pasted image 20240524144900.png",
+    "Pasted image 20240524144618.png",
+    "CSMODEL/Module 2/Data Cleaning.md",
+    "CSMODEL/Module 1/Data Representation.md",
+    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Representation 1.md",
+    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Cleaning.md",
+    "Socket Programming.md",
     "CSMODEL/Module 2/2a - Data Preprocessing.pdf",
     "tgest note.md",
     "State Based Model (Searching).md",
@@ -169,10 +219,6 @@
     "STHCIUX/Needfinding/Pasted image 20240514114354.png",
     "STHCIUX/Needfinding/Pasted image 20240514114335.png",
     "STHCIUX/Needfinding/Pasted image 20240514113045.png",
-    "STHCIUX/Needfinding/Pasted image 20240514112524.png",
-    "STHCIUX/Needfinding/Pasted image 20240514112348.png",
-    "STHCIUX/Design Process/Pasted image 20240510113946.png",
-    "STHCIUX/Design Process/Pasted image 20240510113459.png",
     "STHCIUX/Design Process/Design Process.md",
     "STHCIUX/Research Contributions in HCI",
     "STHCIUX/The Mother of All Demos.md",
@@ -182,26 +228,14 @@
     "STHCIUX",
     "Miscellaenous/Personal Kanban Cards/STHCIUX - Fix this certain note and check if necessary.md",
     "Miscellaenous/Personal Kanban Cards/CSNETWK - Fix TCPIP Suite.md",
-    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Representation 1.md",
-    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Cleaning.md",
-    "Miscellaenous/Personal Kanban.md",
     "Miscellaenous/Personal Kanban Cards",
     "Miscellaenous",
     "CSNETWK/Module 1/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
-    "CSNETWK/Module 2/TCPIP SUITE.md",
-    "CSNETWK/Module 2/TCP vs UDP.md",
-    "CSNETWK/Module 2/Summary of Layered Network Design.md",
-    "CSNETWK/Module 2/Layered Network Design.md",
     "CSNETWK/Module 1/Summary of Module 1 - Introduction to Computer Networks.md",
     "CSNETWK/Module 1/Introduction to Computer Networks (05-06)",
     "CSNETWK/Module 2",
-    "CSNETWK/Module 1",
-    "CSMODEL/Module 2/Data Cleaning.md",
     "CSMODEL/Module 1/Introduction to Data.md",
-    "CSMODEL/Module 1/Data Representation.md",
     "CSMODEL/Module 1/Continuation of Introduction to Data.md",
-    "CSINTSY/Artificial Intelligence Overview.md",
-    "The Mother of All Demos.md",
-    "Network Applications.md"
+    "CSINTSY/Artificial Intelligence Overview.md"
   ]
 }
