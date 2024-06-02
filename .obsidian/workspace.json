@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "470e1c422ca6dadf",
+        "id": "cc8dd6864afe1a20",
         "type": "tabs",
         "children": [
           {
-            "id": "6762330df9799128",
+            "id": "e71b7b5324bbcd2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSMODEL/Module 2/Data Cleaning.md",
+                "file": "Heuristic Search.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               }
             }
           },
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "4fa23185221ed32d",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CSMODEL/Module 2/Data Cleaning.md",
+                "file": "Heuristic Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CSMODEL/Module 2/Data Cleaning.md",
+                "file": "Heuristic Search.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CSMODEL/Module 2/Data Cleaning.md"
+                "file": "Heuristic Search.md"
               }
             }
           },
           {
-            "id": "f7bc94a06f7ad101",
+            "id": "70b14103e37e7bdf",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -147,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -155,53 +155,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6762330df9799128",
+  "active": "141e21109e70370b",
   "lastOpenFiles": [
-    "CSMODEL/Module 2/2a - Data Preprocessing.pdf",
-    "tgest note.md",
-    "State Based Model (Searching).md",
-    "STHCIUX/Research Contributions in HCI/ResearchContributionTypes.pdf",
-    "STHCIUX/Research Contributions in HCI/Research Contributions in HCI.md",
-    "STHCIUX/Needfinding/Something to ponder for Needfinding.md",
-    "STHCIUX/Needfinding/Pasted image 20240514120512.png",
-    "STHCIUX/Needfinding/Pasted image 20240514120201.png",
-    "STHCIUX/Needfinding/Pasted image 20240514120117.png",
-    "STHCIUX/Needfinding/Pasted image 20240514114354.png",
-    "STHCIUX/Needfinding/Pasted image 20240514114335.png",
-    "STHCIUX/Needfinding/Pasted image 20240514113045.png",
-    "STHCIUX/Needfinding/Pasted image 20240514112524.png",
-    "STHCIUX/Needfinding/Pasted image 20240514112348.png",
-    "STHCIUX/Design Process/Pasted image 20240510113946.png",
-    "STHCIUX/Design Process/Pasted image 20240510113459.png",
-    "STHCIUX/Design Process/Design Process.md",
-    "STHCIUX/Research Contributions in HCI",
-    "STHCIUX/The Mother of All Demos.md",
-    "STHCIUX/Needfinding",
-    "STHCIUX/History of HCI.md",
-    "STHCIUX/Design Process",
-    "STHCIUX",
-    "Miscellaenous/Personal Kanban Cards/STHCIUX - Fix this certain note and check if necessary.md",
-    "Miscellaenous/Personal Kanban Cards/CSNETWK - Fix TCPIP Suite.md",
-    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Representation 1.md",
-    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Cleaning.md",
-    "Miscellaenous/Personal Kanban.md",
-    "Miscellaenous/Personal Kanban Cards",
-    "Miscellaenous",
-    "CSNETWK/Module 1/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
-    "CSNETWK/Module 2/TCPIP SUITE.md",
-    "CSNETWK/Module 2/TCP vs UDP.md",
-    "CSNETWK/Module 2/Summary of Layered Network Design.md",
-    "CSNETWK/Module 2/Layered Network Design.md",
-    "CSNETWK/Module 1/Summary of Module 1 - Introduction to Computer Networks.md",
-    "CSNETWK/Module 1/Introduction to Computer Networks (05-06)",
-    "CSNETWK/Module 2",
-    "CSNETWK/Module 1",
+    "Pasted image 20240527160022.png",
+    "Pasted image 20240527155924.png",
+    "Pasted image 20240527151306.png",
+    "Untitled.md",
+    "Analyzing Data.md",
+    "CSINTSY/State Based Model Searching/State Based Model (Searching).md",
     "CSMODEL/Module 2/Data Cleaning.md",
-    "CSMODEL/Module 1/Introduction to Data.md",
+    "Heuristic Search.md",
+    "Pasted image 20240521172400.png",
+    "Pasted image 20240521172010.png",
+    "Pasted image 20240521170242.png",
+    "Pasted image 20240521170007.png",
+    "Pasted image 20240521164739.png",
+    "Pasted image 20240521164235.png",
+    "Pasted image 20240521114019.png",
+    "Pasted image 20240521112539.png",
+    "CSINTSY/State Based Model Searching",
+    "CSNETWK/Module 2/Layered Network Design/Layered Network Design.md",
+    "CSNETWK/Module 2/Application/Web Chaching.md",
+    "CSNETWK/Module 2/Layered Network Design",
+    "CSNETWK/Module 2/Layered Network.md",
+    "CSNETWK/Module 2/Application",
+    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Representation 1.md",
     "CSMODEL/Module 1/Data Representation.md",
+    "Miscellaenous/Personal Kanban.md",
     "CSMODEL/Module 1/Continuation of Introduction to Data.md",
+    "Miscellaenous/Personal Kanban Cards",
+    "STHCIUX/Needfinding/Something to ponder for Needfinding.md",
+    "Miscellaenous/Personal Kanban Cards/STHCIUX - Fix this certain note and check if necessary.md",
+    "CSMODEL/Module 2",
+    "CSMODEL/Module 2/2a - Data Preprocessing.pdf",
+    "2 - Pandas Data Structures (1) 1.ipynb",
+    "2 - Pandas Data Structures (1).ipynb",
+    "STHCIUX/Research Contributions in HCI/Research Contributions in HCI.md",
+    "STHCIUX/Research Contributions in HCI",
+    "STHCIUX/Research Contributions in HCI/ResearchContributionTypes.pdf",
+    "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Cleaning.md",
+    "Miscellaenous/Personal Kanban Cards/CSNETWK - Fix TCPIP Suite.md",
+    "CSNETWK/Module 2/Layered Network Design/Summary of Layered Network Design.md",
+    "CSNETWK/Module 2/Layered Network Design/TCPIP SUITE.md",
+    "CSNETWK/Module 2/Layered Network Design/TCP vs UDP.md",
     "CSINTSY/Artificial Intelligence Overview.md",
-    "The Mother of All Demos.md",
-    "Network Applications.md"
+    "Fix CSMODEL - Data Representation.md",
+    "Miscellaenous/Minutes of the meeting.md",
+    "Fix CSMODEL - Data Representation 1.md",
+    "General To-Do's.md",
+    "Untitled.canvas",
+    "CSNETWK/Untitled.canvas"
   ]
 }
