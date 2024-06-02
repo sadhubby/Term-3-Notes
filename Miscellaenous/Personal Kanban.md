@@ -6,12 +6,11 @@ kanban-plugin: basic
 
 ## School To-Do
 
-- [ ] [[CSMODEL - Fix Data Cleaning]]
 
 
 ## School In-Progress
 
-- [ ] [[CSMODEL - Fix Data Representation 1]]
+- [ ] [[CSMODEL - Fix Data Cleaning]]
 
 
 ## GDSC
@@ -26,6 +25,7 @@ kanban-plugin: basic
 ## School Completed
 
 **Complete**
+- [x] [[CSMODEL - Fix Data Representation 1]]
 - [x] CSINTSY - Continuation of AI Overview
 - [x] [[CSNETWK - Fix TCPIP Suite]]
 - [x] [[STHCIUX - Fix this certain note and check if necessary]]

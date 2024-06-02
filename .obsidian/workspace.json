@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "15bc53c48a261034",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What will show up in the Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e47e878fe35f0538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What will show up in the Exam.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Heuristic Search.md",
+                "file": "What will show up in the Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Heuristic Search.md",
+                "file": "What will show up in the Exam.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heuristic Search.md"
+                "file": "What will show up in the Exam.md"
               }
             }
           },
@@ -155,8 +180,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "141e21109e70370b",
+  "active": "e47e878fe35f0538",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "What will show up in the Exam.md",
+    "Heuristic Search.md",
+    "Socket Programming.md",
+    "Pasted image 20240524150904.png",
+    "Pasted image 20240524145223.png",
+    "Pasted image 20240524144900.png",
+    "Pasted image 20240524144618.png",
+    "Foundations for Inferece.md",
     "Pasted image 20240527160022.png",
     "Pasted image 20240527155924.png",
     "Pasted image 20240527151306.png",
@@ -164,15 +198,9 @@
     "Analyzing Data.md",
     "CSINTSY/State Based Model Searching/State Based Model (Searching).md",
     "CSMODEL/Module 2/Data Cleaning.md",
-    "Heuristic Search.md",
     "Pasted image 20240521172400.png",
     "Pasted image 20240521172010.png",
     "Pasted image 20240521170242.png",
-    "Pasted image 20240521170007.png",
-    "Pasted image 20240521164739.png",
-    "Pasted image 20240521164235.png",
-    "Pasted image 20240521114019.png",
-    "Pasted image 20240521112539.png",
     "CSINTSY/State Based Model Searching",
     "CSNETWK/Module 2/Layered Network Design/Layered Network Design.md",
     "CSNETWK/Module 2/Application/Web Chaching.md",
@@ -200,9 +228,6 @@
     "CSNETWK/Module 2/Layered Network Design/TCP vs UDP.md",
     "CSINTSY/Artificial Intelligence Overview.md",
     "Fix CSMODEL - Data Representation.md",
-    "Miscellaenous/Minutes of the meeting.md",
-    "Fix CSMODEL - Data Representation 1.md",
-    "General To-Do's.md",
     "Untitled.canvas",
     "CSNETWK/Untitled.canvas"
   ]
