@@ -20,7 +20,6 @@ Network Interface
 	- Defined by two protocols:
 		- Transmission Control Protocol - TCP
 		- User Datagram Protocol - UDP
-	[[Differences of TCP vs UDP]]
 	UDP is about fast
 	TCP is about precision and accuracy
 	

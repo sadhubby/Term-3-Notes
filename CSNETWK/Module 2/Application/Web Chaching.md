@@ -36,7 +36,7 @@ official, contant of last resort by name that can not resolve name
 incredible important internet function
 	internet countlyt function wihtout 
 	DNSSEC - provides sercuitityu
-ICANN Internet corporation for assigned named nad numvers
+ICANN Internet corporation for assigned named nas numbers
 
 TLD and Authoritative Servers
 - Top Level Domain Servers

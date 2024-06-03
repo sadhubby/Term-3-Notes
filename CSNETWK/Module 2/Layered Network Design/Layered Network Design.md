@@ -1,4 +1,4 @@
-#### ==Protocols==
+# ==Protocols==
 accepted or established set of procedures, rules or formal specifications governing specific behavior or language
 	code of conduct
 	ex: specific dress protocol for fine dining restaurant
@@ -12,7 +12,7 @@ network protocols are like human protocols
 	specifies vocabulary and rules of data communication
 	vital that the source and destination and any other devices on the network all use the same protocol
 
-#### ==Open Systems Interconnect (OSI) architecture==
+# ==Open Systems Interconnect (OSI) architecture==
 
 Keywords: 
 - Network Architecture
@@ -84,9 +84,9 @@ Session
 	reestablishing connection in the event a failure occurs
 	responsible for enforcing rules of full and half duplex
 
-Half duplex - one direction at a time
+- Half duplex - one direction at a time
 	ex: walkie talkies
-full duplex - simultaneously
+- full duplex - simultaneously
 	ex: landline phones or mobile phones
 
 Transport
