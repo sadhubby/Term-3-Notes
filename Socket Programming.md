@@ -4,23 +4,23 @@
 	
 One end point of a two wat communication link between two programs running on the network
 	Palaging meron port number so TCP layer can identify the application. 2 types:
-	Connectiod orented sockets
-		source ip addres
+	Connection-oriented sockets
+		source ip address
 		source port number
 		dest IP address
 		dest port number
-		 uses TCP
+		uses TCP
 	Connectionless sockets
 		dest IP address
 		dest port number
-		 uses UDP
-		 adrenaline in my soul
+		uses UDP
+		
 
 1. Server runs on a specific computer and has a socket that is bound to a specific port number
 	- server 
-3. server accepts tehec onnection
-	1. upon acceptance the server gets a new socket bound to the same local port and has its remote nepoint set to the aadress and port of the client
-	2. socket is successfully created on the client side and the client can use the socket to commjunicatie htbe sjervber
+3. server accepts the connection
+	1. upon acceptance the server gets a new socket bound to the same local port and has its remote endpoint set to the address and port of the client
+	2. socket is successfully created on the client side and the client can use the socket to communicate the server
 
 check pdf latur
 

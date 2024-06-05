@@ -42,19 +42,19 @@
             }
           },
           {
-            "id": "3b5cd2cbe41e61cc",
+            "id": "9ba7a4576880b8a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSNETWK/Module 2/Summary of Layered Network Design.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STHCIUX/The Mother of All Demos.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STHCIUX/The Mother of All Demos.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STHCIUX/The Mother of All Demos.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -189,8 +189,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c403165b7945afe7",
+  "active": "9ba7a4576880b8a9",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "STHCIUX/The Mother of All Demos.md",
+    "Untitled.md",
+    "Pasted image 20240603000302.png",
+    "Pasted image 20240603000258.png",
+    "Pasted image 20240527160022.png",
+    "Pasted image 20240527155924.png",
+    "Pasted image 20240527151306.png",
+    "Pasted image 20240521172400.png",
+    "Pasted image 20240521172010.png",
+    "Pasted image 20240521170242.png",
+    "Pasted image 20240521170007.png",
+    "Pasted image 20240521164739.png",
+    "Heuristic Search.md",
+    "Differences of TCP vs UDP.md",
+    "CSNETWK/Module 2/Layered Network Design/TCPIP SUITE.md",
+    "CSNETWK/Module 2/Layered Network Design/TCP vs UDP.md",
+    "CSNETWK/Module 2/Layered Network Design/Summary of Layered Network Design.md",
+    "CSNETWK/Module 2/Layered Network Design/Layered Network Design.md",
+    "CSNETWK/Module 2/Layered Network Design",
+    "CSNETWK/Module 2/Application/Web Chaching.md",
+    "CSNETWK/Module 2/Application",
+    "CSINTSY/State Based Model Searching/State Based Model (Searching).md",
+    "CSINTSY/State Based Model Searching",
+    "Analyzing Data.md",
     "What will show up in the Exam.md",
     "CSNETWK/Module 2/Summary of Layered Network Design.md",
     "CSNETWK/Module 2/Layered Network Design.md",
@@ -198,10 +223,6 @@
     "CSNETWK/Module 2/TCP vs UDP.md",
     "Miscellaenous/Personal Kanban.md",
     "Foundations for Inferece.md",
-    "Pasted image 20240524150904.png",
-    "Pasted image 20240524145223.png",
-    "Pasted image 20240524144900.png",
-    "Pasted image 20240524144618.png",
     "CSMODEL/Module 2/Data Cleaning.md",
     "CSMODEL/Module 1/Data Representation.md",
     "Miscellaenous/Personal Kanban Cards/CSMODEL - Fix Data Representation 1.md",
@@ -211,31 +232,10 @@
     "tgest note.md",
     "State Based Model (Searching).md",
     "STHCIUX/Research Contributions in HCI/ResearchContributionTypes.pdf",
-    "STHCIUX/Research Contributions in HCI/Research Contributions in HCI.md",
-    "STHCIUX/Needfinding/Something to ponder for Needfinding.md",
-    "STHCIUX/Needfinding/Pasted image 20240514120512.png",
-    "STHCIUX/Needfinding/Pasted image 20240514120201.png",
-    "STHCIUX/Needfinding/Pasted image 20240514120117.png",
-    "STHCIUX/Needfinding/Pasted image 20240514114354.png",
-    "STHCIUX/Needfinding/Pasted image 20240514114335.png",
-    "STHCIUX/Needfinding/Pasted image 20240514113045.png",
-    "STHCIUX/Design Process/Design Process.md",
     "STHCIUX/Research Contributions in HCI",
-    "STHCIUX/The Mother of All Demos.md",
     "STHCIUX/Needfinding",
-    "STHCIUX/History of HCI.md",
     "STHCIUX/Design Process",
     "STHCIUX",
-    "Miscellaenous/Personal Kanban Cards/STHCIUX - Fix this certain note and check if necessary.md",
-    "Miscellaenous/Personal Kanban Cards/CSNETWK - Fix TCPIP Suite.md",
-    "Miscellaenous/Personal Kanban Cards",
-    "Miscellaenous",
-    "CSNETWK/Module 1/Introduction to Computer Networks (05-06)/Introduction to Computer Networks (05-06).md",
-    "CSNETWK/Module 1/Summary of Module 1 - Introduction to Computer Networks.md",
-    "CSNETWK/Module 1/Introduction to Computer Networks (05-06)",
-    "CSNETWK/Module 2",
-    "CSMODEL/Module 1/Introduction to Data.md",
-    "CSMODEL/Module 1/Continuation of Introduction to Data.md",
-    "CSINTSY/Artificial Intelligence Overview.md"
+    "Miscellaenous/Personal Kanban Cards"
   ]
 }
